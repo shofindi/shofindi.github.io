@@ -146,7 +146,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -177,7 +177,7 @@
             }
           },
           "title": "LEBENSMITTEL",
-          "text": "Lass' dir Lebensmittel detailliert basierend komplett auf deinen eigenen Präferenzen anzeigen. Stelle deinen Warenkorb zusammen und hol ' ihn bei nächster Gelegenheit bei einem unserer Partner-Stores ab.&nbsp;",
+          "text": "Lass' dir Lebensmittel basierend auf deinen eigenen Präferenzen anzeigen. Stelle deinen Warenkorb zusammen und hol' ihn bei nächster Gelegenheit bei einem unserer Partner-Stores ab.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
         },
         {
@@ -233,7 +233,7 @@
             }
           },
           "title": "RABATTE",
-          "text": "Entdecke exklusive Rabatte und spare bares Geld. Alle Rabatte kannst du auch bequem in deinen Warenkorb exportieren. &nbsp;",
+          "text": "Entdecke exklusive Rabatte und spare bares Geld. Alle reduzierten Produkte kannst du auch bequem in deinen Warenkorb exportieren. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
         },
         {
@@ -253,7 +253,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -310,7 +310,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW US",
+          "text": "SEI AUCH EIN LAUCH",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
