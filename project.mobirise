@@ -113,7 +113,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-black-v3-303x128-92.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -432,7 +432,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-black-v3-303x128-92.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
