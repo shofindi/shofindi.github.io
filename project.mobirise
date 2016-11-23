@@ -178,7 +178,7 @@
           },
           "title": "LEBENSMITTEL",
           "text": "Lass' dir Lebensmittel basierend auf deinen eigenen Präferenzen anzeigen. Stelle deinen Warenkorb zusammen und hol' ihn bei nächster Gelegenheit bei einem unserer Partner-Stores ab.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#page1.html\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
         },
         {
           "_tags": [
