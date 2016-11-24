@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Future Leaders Project",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1327,7 +1327,7 @@
           },
           "title": "DEIN WARENKORB IST NOCH LEER",
           "text": "Gehe unten auf unsere Produktseite und füge Produkte deinem Warenkorb hinzu. Zusätzlich kannst du über den Reiter 'Rezepte' ganze Rezepte deinem Warenkorb hinzufügen und genüßlich zu Hause nachkochen.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">ZUR PRODUKTSEITE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ZU DEN REZEPTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">ZUR KASSE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ZUR PRODUKTSEITE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ZU DEN REZEPTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">ZUR KASSE</a>"
         },
         {
           "_styles": {
@@ -1697,7 +1697,7 @@
           },
           "title": "DIESER ARTIKEL WURDE DEINEM WARENKORB HINZUGEFÜGT.",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ZU DEN PRODUKTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZU DEN REZEPTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZUM WARENKORB</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ZU DEN PRODUKTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZU DEN REZEPTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">ZUM WARENKORB</a>"
         },
         {
           "_styles": {
