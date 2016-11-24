@@ -631,6 +631,9 @@ h6,
 #msg-box8-l p {
   color: #fff;
 }
+#msg-box8-l .lead P {
+  color: #ffffff;
+}
 #slider-m H2 {
   text-align: left;
 }
