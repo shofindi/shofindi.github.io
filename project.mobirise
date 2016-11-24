@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 32,
+    "uniqCompNum": 36,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
@@ -491,6 +491,17 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "features3-i",
           "_params": {
             "paddingTop": 2,
@@ -601,18 +612,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#efefef"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -812,6 +812,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -866,15 +874,7 @@
             "showBullets": true
           },
           "_anchor": "slider-m",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -1082,6 +1082,67 @@
           "title": "WAGNER 'DIE BACKFRISCHE KÄSE DUO'",
           "text": "Bewertung: ★ ★ ★ ★ ☆ &nbsp;(109)&nbsp;<br><br>Zutaten: &nbsp;WEIZENMEHL, zerkleinerte Schältomaten (22 %), KÄSE (18 %) (schnittfester MOZZARELLA, PROVOLONE geräuchert), Wasser, RICOTTA (4%), LAUCH (4%), Sauerteig (Wasser, WEIZENMEHL, ROGGENMEHL, Kulturen), VOLLMILCH, gegrillte Zwiebeln, SAHNE, Olivenöl nativ extra (1 %), Speisesalz, Hefe, Kräuter und Gewürze, Zucker, Dextrose, MALZMEHL (GERSTE), Stabilisator: Guarkernmehl, MILCHEIWEIS, Verdickungsmittel: Xanthan. KANN ENTHALTEN: SCHALENFRÜCHTEN, FISCH, KREBSTIEREN, SOJA, SENF und SELLERIE enthalten.<br><br>ENTHÄLT: &nbsp;Gluten, Weizen, Milch",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NÄHRWERTE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZUBEREITUNG</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">IN DEN WARENKORB</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/holz-wandverkleidung-g-2000x1332-90.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "VERFÜGBARKEIT",
+          "text": "<p>Finde heraus, in welchen Partner-Stores in deiner Nähe das Produkt verfügbar ist.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dark-wood-pics-328103-2000x1250-83.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "EDEKA lörrach",
+              "placeId": "ChIJRY0Cl1mtkUcR8w-kYZwVDxc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><strong>ADRESSE</strong><br>EDEKA Hieber's Frische Center<br>Hauptstraße 218, <br>79650 Schopfheim<br><br><br>\n<strong>DATEN</strong><br>Öffnungszeiten: Mo-Sa 08-19 Uhr<br>\nTelefon: +49 7622 684550<br>\nWebsite:&nbsp;<a href=\"http://www.hieber.de/\">Hieber's Frische Center</a></p>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -0.800000011920929px; line-height: 16px;\"><b>ANDERE PARTNER-STORES</b></span></font><br><ul><li><a href=\"https://www.google.de/maps/place/REWE/@47.6408526,7.7440873,17z/data=!3m1!4b1!4m5!3m4!1s0x4791b1f554692d79:0x40e0d80a9ec68193!8m2!3d47.640849!4d7.746276\" target=\"_blank\">REWE Steinen</a></li><li><a href=\"https://www.google.de/maps/place/EDEKA+Henle+L%C3%B6rrach-Brombach/@47.6353045,7.6890072,17z/data=!3m1!4b1!4m5!3m4!1s0x4791b04de46d97a7:0xff67a6a2a8f3956f!8m2!3d47.6353009!4d7.6911959\" target=\"_blank\">EDEKA Henle Brombach</a></li><li><a href=\"https://www.google.de/maps/place/Kaufland/@47.6259866,7.6726833,17z/data=!3m1!4b1!4m5!3m4!1s0x4791b0f5f733ce8b:0x3158ae76f3b8fea3!8m2!3d47.625983!4d7.674872\" target=\"_blank\">Kaufland Lörrach</a></li></ul>"
         },
         {
           "_styles": {
