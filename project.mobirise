@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Future Leaders Project",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 25,
+    "uniqCompNum": 31,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ÜBER UNS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Karriere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HILFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bezahlung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lieferung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Kontaktiere uns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARTNER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.edeka.de/homepage.jsp\" target=\"_blank\">EDEKA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.rewe.de/\" target=\"_blank\">REWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.kaufland.de/\" target=\"_blank\">Kaufland</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-basket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px;\"></span>WARENKORB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store\" target=\"_blank\">APP DOWNLOADEN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ÜBER UNS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Karriere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HILFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bezahlung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lieferung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Kontaktiere uns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARTNER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.edeka.de/homepage.jsp\" target=\"_blank\">EDEKA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.rewe.de/\" target=\"_blank\">REWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.kaufland.de/\" target=\"_blank\">Kaufland</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-basket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px;\"></span>WARENKORB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store\" target=\"_blank\">APP DOWNLOADEN</a></li>"
         },
         {
           "_tags": [
@@ -178,9 +178,60 @@
               "size": 0
             }
           },
-          "title": "LEBENSMITTEL",
-          "text": "Lass' dir Lebensmittel basierend auf deinen eigenen Präferenzen anzeigen. Stelle deinen Warenkorb zusammen und hol' ihn bei nächster Gelegenheit bei einem unserer Partner-Stores ab.&nbsp;",
+          "title": "PRODUKTE",
+          "text": "Lass' dir Produkte basierend auf deinen eigenen Präferenzen anzeigen. Stelle deinen Warenkorb zusammen und hol' ihn bei nächster Gelegenheit bei einem unserer Partner-Stores ab.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/holz-wandverkleidung-g-2000x1332-49.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/viewing-gallery-for-gourmet-food-displaying-15-images-for-gourmet-food-1400x1005-25.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "REZEPTE",
+          "text": "Geniesse einen Ausflug in neue kulinarische Gefilde und entdecke neue Rezepte. Alle Rezepte sind komplett auf deine Präferenzen ausgerichtet. Außerdem gibt es exklusiv das 'Rezept des Tages', welches für uns von angesehenen Spitzenköchen kreirt wird.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
         },
         {
           "_tags": [
@@ -237,57 +288,6 @@
           "title": "RABATTE",
           "text": "Entdecke exklusive Rabatte und spare bares Geld. Alle reduzierten Produkte kannst du auch bequem in deinen Warenkorb exportieren. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-3",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/holz-wandverkleidung-g-2000x1332-49.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/viewing-gallery-for-gourmet-food-displaying-15-images-for-gourmet-food-1400x1005-25.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "REZEPTE",
-          "text": "Geniesse einen Ausflug in neue kulinarische Gefilde und entdecke neue Rezepte. Alle Rezepte sind komplett auf deine Präferenzen ausgerichtet. Außerdem gibt es exklusiv das 'Rezept des Tages', welches für uns von angesehenen Spitzenköchen kreirt wird.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>"
         },
         {
           "_styles": {
@@ -443,7 +443,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ÜBER UNS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Karriere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HILFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bezahlung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lieferung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Kontaktiere uns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARTNER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.edeka.de/homepage.jsp\" target=\"_blank\">EDEKA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.rewe.de/\" target=\"_blank\">REWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.kaufland.de/\" target=\"_blank\">Kaufland</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-basket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px;\"></span>WARENKORB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store\" target=\"_blank\">APP DOWNLOADEN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ÜBER UNS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Karriere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HILFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bezahlung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lieferung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Kontaktiere uns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARTNER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.edeka.de/homepage.jsp\" target=\"_blank\">EDEKA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.rewe.de/\" target=\"_blank\">REWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.kaufland.de/\" target=\"_blank\">Kaufland</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-basket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px;\"></span>WARENKORB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store\" target=\"_blank\">APP DOWNLOADEN</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -529,7 +529,7 @@
           "title1": "Wagner 'Die Backfrische Käse-Duo'",
           "subtitle1": "Pizza wie selbst gemacht!",
           "caption1": "Die Backfrische von Wagner besticht durch einen besonders frischen und leckeren Geschmack. Die Pizza backt frisch im Ofen auf und besticht durch eine hohe Qualität bei den Zutaten.<br>Preis: 2,99<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ENTDECKE MEHR</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/nestle-wagner-pizza-original-steinofen-mozzarella-600x383-22.jpg",
@@ -768,7 +768,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ÜBER UNS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Karriere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HILFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bezahlung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lieferung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Kontaktiere uns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARTNER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.edeka.de/homepage.jsp\" target=\"_blank\">EDEKA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.rewe.de/\" target=\"_blank\">REWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.kaufland.de/\" target=\"_blank\">Kaufland</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-basket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px;\"></span>WARENKORB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store\" target=\"_blank\">APP DOWNLOADEN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ÜBER UNS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Karriere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HILFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bezahlung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lieferung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Kontaktiere uns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARTNER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.edeka.de/homepage.jsp\" target=\"_blank\">EDEKA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.rewe.de/\" target=\"_blank\">REWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.kaufland.de/\" target=\"_blank\">Kaufland</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-basket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px;\"></span>WARENKORB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store\" target=\"_blank\">APP DOWNLOADEN</a></li>"
         },
         {
           "_styles": {
@@ -939,6 +939,149 @@
           "text1": "<strong>Addresse</strong><br>Hutgasse 2, <br><span style=\"font-size: 0.875rem; line-height: 1.5;\">4001 Basel</span><br>Schweiz",
           "text2": "<strong>Kontakt</strong><br>Email: service.shofindi@gmail.com<br>\nPhone: +41 (0) 000 0000 001<br>\nFax: +41 (0) 000 0000 002",
           "text3": "<br><br><br><br>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-black-v3-303x128-92.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ÜBER UNS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Karriere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HILFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Bezahlung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Lieferung</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Kontaktiere uns</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PARTNER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.edeka.de/homepage.jsp\" target=\"_blank\">EDEKA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.rewe.de/\" target=\"_blank\">REWE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.kaufland.de/\" target=\"_blank\">Kaufland</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"etl-icon icon-basket mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px;\"></span>WARENKORB</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store\" target=\"_blank\">APP DOWNLOADEN</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/holz-fotolia-1920x1140px-2000x1150-4.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nestle-wagner-kaese-duo-1400x894-51.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WAGNER 'DIE BACKFRISCHE KÄSE DUO'",
+          "text": "Zutaten: &nbsp;WEIZENMEHL, zerkleinerte Schältomaten (22 %), KÄSE (18 %) (schnittfester MOZZARELLA, PROVOLONE geräuchert), Wasser, RICOTTA (4%), LAUCH (4%), Sauerteig (Wasser, WEIZENMEHL, ROGGENMEHL, Kulturen), VOLLMILCH, gegrillte Zwiebeln, SAHNE, Olivenöl nativ extra (1 %), Speisesalz, Hefe, Kräuter und Gewürze, Zucker, Dextrose, MALZMEHL (GERSTE), Stabilisator: Guarkernmehl, MILCHEIWEIS, Verdickungsmittel: Xanthan. KANN ENTHALTEN: SCHALENFRÜCHTEN, FISCH, KREBSTIEREN, SOJA, SENF und SELLERIE enthalten.<br><br>ENTHÄLT: &nbsp;Gluten, Weizen, Milch",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NÄHRWERTE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZUBEREITUNG</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">IN DEN WARENKORB</a>  "
         }
       ]
     }
