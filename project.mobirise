@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Future Leaders Project",
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
@@ -1080,8 +1080,72 @@
             }
           },
           "title": "WAGNER 'DIE BACKFRISCHE KÄSE DUO'",
-          "text": "Zutaten: &nbsp;WEIZENMEHL, zerkleinerte Schältomaten (22 %), KÄSE (18 %) (schnittfester MOZZARELLA, PROVOLONE geräuchert), Wasser, RICOTTA (4%), LAUCH (4%), Sauerteig (Wasser, WEIZENMEHL, ROGGENMEHL, Kulturen), VOLLMILCH, gegrillte Zwiebeln, SAHNE, Olivenöl nativ extra (1 %), Speisesalz, Hefe, Kräuter und Gewürze, Zucker, Dextrose, MALZMEHL (GERSTE), Stabilisator: Guarkernmehl, MILCHEIWEIS, Verdickungsmittel: Xanthan. KANN ENTHALTEN: SCHALENFRÜCHTEN, FISCH, KREBSTIEREN, SOJA, SENF und SELLERIE enthalten.<br><br>ENTHÄLT: &nbsp;Gluten, Weizen, Milch",
+          "text": "Bewertung: ★ ★ ★ ★ ☆ &nbsp;(109)&nbsp;<br><br>Zutaten: &nbsp;WEIZENMEHL, zerkleinerte Schältomaten (22 %), KÄSE (18 %) (schnittfester MOZZARELLA, PROVOLONE geräuchert), Wasser, RICOTTA (4%), LAUCH (4%), Sauerteig (Wasser, WEIZENMEHL, ROGGENMEHL, Kulturen), VOLLMILCH, gegrillte Zwiebeln, SAHNE, Olivenöl nativ extra (1 %), Speisesalz, Hefe, Kräuter und Gewürze, Zucker, Dextrose, MALZMEHL (GERSTE), Stabilisator: Guarkernmehl, MILCHEIWEIS, Verdickungsmittel: Xanthan. KANN ENTHALTEN: SCHALENFRÜCHTEN, FISCH, KREBSTIEREN, SOJA, SENF und SELLERIE enthalten.<br><br>ENTHÄLT: &nbsp;Gluten, Weizen, Milch",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NÄHRWERTE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZUBEREITUNG</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">IN DEN WARENKORB</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/it-s-wood-by-niklask-1000x625-2000x1250-20.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/edeka-tte-128x128-40.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>Hutgasse 2, <br><span style=\"font-size: 0.875rem; line-height: 1.5;\">4001 Basel</span><br>Schweiz",
+          "text2": "<strong>Kontakt</strong><br>Email: service.shofindi@gmail.com<br>\nPhone: +41 (0) 000 0000 001<br>\nFax: +41 (0) 000 0000 002",
+          "text3": "<br><br><br><br>"
         }
       ]
     }
