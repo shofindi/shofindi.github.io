@@ -1095,8 +1095,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-y",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/holz-wandverkleidung-g-2000x1332-90.jpg",
