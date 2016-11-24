@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Future Leaders Project",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1697,7 +1697,7 @@
           },
           "title": "DIESER ARTIKEL WURDE DEINEM WARENKORB HINZUGEFÜGT.",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ZU DEN PRODUKTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ZU DEN REZEPTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">ZUM WARENKORB</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ZU DEN PRODUKTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">ZU DEN REZEPTEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">ZUM WARENKORB</a>"
         },
         {
           "_styles": {
